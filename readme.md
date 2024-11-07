@@ -1,4 +1,4 @@
-# QRProject
+# QR Project
 
 This project generates a QR code that links to my GitHub profile.
 
@@ -6,7 +6,7 @@ This project generates a QR code that links to my GitHub profile.
 
 This QR code links to my GitHub homepage:
 
-![QR Code](qr_codes/QRCode_20241107023937.png)
+![QR Code](qr_codes/QRCode.png)
 
 ## Log Output
 
