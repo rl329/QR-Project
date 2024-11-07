@@ -12,4 +12,4 @@ QR code links to my GitHub homepage:
 
 The log output below shows the successful creation of the QR code:
 
-[![Log Output](https://github.com/rl329/QR-Project/blob/master/Log%20Output.png)](https://github.com/rl329/QR-Project/blob/master/Log%20Output.png)
+![Log Output](Log%20Output.png)
